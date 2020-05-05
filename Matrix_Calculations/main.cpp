@@ -1,12 +1,4 @@
-/*
-         ___________________________
-        |           348300          |
-        |       Fatih Kurcenli      |
-        |        I. Ogretim         |
-        |        05362083462        |
-        | fatihkurcenli0@gmail.com  |
-         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-*/
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
